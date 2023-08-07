@@ -4,7 +4,7 @@
 <h3 align="center">< FullStack - Front-end Developer & Ux desing /></h3>
 Desarrollador web apasionado especializado en Frontend. Creativo y enfocado en la experiencia del usuario. Próximo a obtener certificación en Diseño UX. Busco asumir nuevos retos y contribuir a hacer del mundo digital un lugar mejor.
 
-- 🔭 Actualmente [En busca de trabajo y terminando curso de UX (google)](/account/accomplishments/?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=course)
+- 🔭 Actualmente [En busca de trabajo y terminando certificación de UX (google)]
 
 - 💬 Certificado [FullStack Developer](https://certificate.4geeks.com/96205dd6238e646be4e1edc8573db9f0168ee086)
 
